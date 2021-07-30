@@ -1,0 +1,22 @@
+Data becomes much meaning full for human when visualized in the form of graph.
+
+data types in python:- 
+string,integers,float,list,dictionary,dataframe
+ex-float 0.5555555
+list-[1212132,"h"]
+dictionary-{
+    name:"arijeet",
+    grade:10,
+    country:india    
+
+}
+dataframes is in table forms having row and  column
+it can have any type of data   such as  string, float
+----------------------------------------------------------
+we use a libary called pandas its helps us in data manipulation and analysis
+
+pip3 install pandas 
+
+plotly.express is used to plot the graphs
+
+pip3 install plotly_express
